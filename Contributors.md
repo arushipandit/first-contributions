@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 ﻿
 - [Deeptiman Mallick](https://github.com/codecrook)
 - [Quince Joz-Bruer](https://github.com/the-german)
@@ -14148,6 +14148,7 @@ Stephan Sharpe
 - [Mikael Eriksson](https://github.com/mmikaeleriksson)
 - [Lindsay Jopson](https://github.com/lindsayjopson)
 - [Julio Anthony Leonard](https://github.com/imjuanleonard)
+- [Arushi Pandit](https://github.com/arushipandit)
 - [Mac](https://github.com/InherentMac)
 - [Shyam Sundar S](https://github.com/ShyamSundarShankar)
 - [Dung Nguyen (nhymxu)](https://github.com/nhymxu)
